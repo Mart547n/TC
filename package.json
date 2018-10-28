@@ -1,0 +1,27 @@
+{
+  "name": "tc",
+  "version": "1.0.0",
+  "description": "A small terminal calculator",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mart547n/TC.git"
+  },
+  "keywords": [
+    "Terminal",
+    "Electron",
+    "Math"
+  ],
+  "author": "Martin Sig",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Mart547n/TC/issues"
+  },
+  "homepage": "https://github.com/Mart547n/TC#readme",
+  "devDependencies": {
+    "electron": "^3.0.6"
+  }
+}
